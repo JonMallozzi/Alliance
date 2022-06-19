@@ -7,10 +7,10 @@ I made the game open source besides the assets and security files so I could put
 Just because it is open source that does not mean I am looking for help as this is a solo dev project but I would love issues to be created for bugs or pull request to patch out methods for cheating and hacking. You can help ensure a good playing experience if you see issues in the code.
 
 ### Tech Stack
-Game: Written in Java and wrapped in Object-C++ for MACOS/IOS while using Vulkan, DX12, and Metal grahics apis\
+Game: Written in Java and using Vulkan, DX12, and Metal grahics apis\
 Website: Typescript and Angular with WASM running the Java game\
-Backend: Java Greenlighting and Graphql for the api\
-Database: Postgres and a Redis Cache\
+Backend: Java Spring and Rest for the api\
+Database: Couchbase and a Redis Cache\
 Other Servers: Written in Java from scratch
 
 ### Why Java and Angular?
